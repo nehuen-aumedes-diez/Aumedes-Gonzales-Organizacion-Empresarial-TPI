@@ -40,6 +40,16 @@ Este proyecto consiste en el análisis organizacional y el diseño de un sistema
 
 ---
 
+## Declaración de Transparencia:
+
+- En el presente trabajo, se utilizó la ia principalmente 
+para generación de nombres, obtención de información acerca de empresas de 
+software y sus desarrollos, tanto así como para sugerencias, ejemplificación y  de 
+diagrama de Gantt para su implementación, para ejemplos y formateo de archivo 
+README.md y mejoras de redacción. 
+
+---
+
 ## Estado del Proyecto
 
 📚 Proyecto académico desarrollado en el marco del Trabajo Práctico Integrador de la materia Organización Empresarial.
